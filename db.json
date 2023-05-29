@@ -1,25 +1,166 @@
 {
   "posts": [
     {
-      "title": "acum sa vedem",
-      "subtitle": "eqewq",
+      "title": "How can we sing about love?",
+      "subtitle": "Singing about love",
       "time": "28.05.2023",
       "image": "https://images.pexels.com/photos/268533/pexels-photo-268533.jpeg?cs=srgb&dl=pexels-pixabay-268533.jpg&fm=jpg",
       "category": "Photography",
-      "summary": "gfasd",
-      "description": "fasfg",
+      "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem",
       "id": 12
     },
     {
-      "title": "dasd",
-      "subtitle": "dasd",
+      "title": "Crying on the news",
+      "subtitle": "Crying",
       "time": "29.05.2023",
       "image": "https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_1280.jpg",
-      "category": "Work",
-      "summary": "das",
-      "description": "dsa",
+      "category": "Lifestyle",
+      "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem",
       "id": 13
+    },
+    {
+      "title": "The Men in Black",
+      "subtitle": "RUN",
+      "time": "29.05.2023",
+      "image": "2.jpg",
+      "category": "Journey",
+      "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem",
+      "id": 14
+    },
+    {
+      "title": "The king is made of paper",
+      "subtitle": "King",
+      "time": "29.05.2023",
+      "image": "8.jpg",
+      "category": "Work",
+      "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem",
+      "id": 15
+    },
+    {
+      "title": "Kebab",
+      "subtitle": "Kebab",
+      "time": "29.05.2023",
+      "image": "22.jpg",
+      "category": "Food & Drinks",
+      "summary": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+      "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem",
+      "id": 16
     }
   ],
-  "comments": []
+  "comments": [
+    {
+      "firstname": "Lucy",
+      "lastname": "Scarlet",
+      "comment": "Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.",
+      "postId": 12,
+      "time": "29.05.2023",
+      "likes": 1,
+      "dislikes": 0,
+      "id": 1
+    },
+    {
+      "firstname": "Mia ",
+      "lastname": "Amadeus",
+      "comment": "Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.",
+      "postId": 12,
+      "time": "29.05.2023",
+      "likes": 0,
+      "dislikes": 2,
+      "id": 2
+    },
+    {
+      "firstname": "Paula",
+      "lastname": "Kim",
+      "comment": "Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.",
+      "postId": 13,
+      "time": "29.05.2023",
+      "likes": 1,
+      "dislikes": 1,
+      "id": 3
+    },
+    {
+      "firstname": "Kim",
+      "lastname": "Chon Kun",
+      "comment": "Vestibulum volutpat pretium libero. Cras id dui. Aenean ut eros et nisl sagittis vestibulum. Nullam nulla eros, ultricies sit amet, nonummy id, imperdiet feugiat, pede. Sed lectus. Donec mollis hendrerit risus. Phasellus nec sem in justo pellentesque facilisis.",
+      "postId": 13,
+      "time": "29.05.2023",
+      "likes": 2,
+      "dislikes": 0,
+      "id": 4
+    },
+    {
+      "firstname": "Lee",
+      "lastname": "Sin",
+      "comment": "Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus.",
+      "postId": 13,
+      "time": "29.05.2023",
+      "likes": 0,
+      "dislikes": 1,
+      "id": 5
+    },
+    {
+      "firstname": "Jonh",
+      "lastname": "Ion",
+      "comment": "Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.",
+      "postId": 14,
+      "time": "29.05.2023",
+      "likes": 1,
+      "dislikes": 1,
+      "id": 6
+    },
+    {
+      "firstname": "Jessica",
+      "lastname": "Person",
+      "comment": "Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.",
+      "postId": 14,
+      "time": "29.05.2023",
+      "likes": 1,
+      "dislikes": 0,
+      "id": 7
+    },
+    {
+      "firstname": "Zen",
+      "lastname": "Donna",
+      "comment": "Cras sit amet nibh libero, in gravida nulla. Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.",
+      "postId": 15,
+      "time": "29.05.2023",
+      "likes": 1,
+      "dislikes": 5,
+      "id": 8
+    },
+    {
+      "firstname": "Norma",
+      "lastname": "Darby",
+      "comment": "Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus.",
+      "postId": 15,
+      "time": "29.05.2023",
+      "likes": 5,
+      "dislikes": 6,
+      "id": 9
+    },
+    {
+      "firstname": "Akara",
+      "lastname": "Coke",
+      "comment": "Nam pretium turpis et arcu. Duis arcu tortor, suscipit eget, imperdiet nec, imperdiet iaculis, ipsum. Sed aliquam ultrices mauris. Integer ante arcu, accumsan a, consectetuer eget, posuere ut, mauris. Praesent adipiscing. Phasellus ullamcorper ipsum rutrum nunc. Nunc nonummy metus.",
+      "postId": 16,
+      "time": "29.05.2023",
+      "likes": 0,
+      "dislikes": 7,
+      "id": 10
+    },
+    {
+      "firstname": "Filiz",
+      "lastname": "Navidad",
+      "comment": "Nulla vel metus scelerisque ante sollicitudin. Cras purus odio, vestibulum in vulputate at, tempus viverra turpis. Fusce condimentum nunc ac nisi vulputate fringilla. Donec lacinia congue felis in faucibus.",
+      "postId": 16,
+      "time": "29.05.2023",
+      "likes": 12,
+      "dislikes": 11,
+      "id": 11
+    }
+  ]
 }

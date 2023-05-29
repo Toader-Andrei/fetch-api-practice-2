@@ -154,7 +154,7 @@ function createComment(comment) {
   const commentImage = document.createElement("img");
   commentImage.setAttribute(
     "src",
-    "https://scontent.fclj1-2.fna.fbcdn.net/v/t39.30808-6/347627978_1207254316645759_8342458136069692808_n.jpg?_nc_cat=106&cb=99be929b-59f725be&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=1Z9uOIdtDK8AX_3_p69&_nc_ht=scontent.fclj1-2.fna&oh=00_AfBvqr3MiZb2ELJzS-eni0-g4EwjUR7JUOm1i5MJCWyM4Q&oe=646DD6E8"
+    "https://img.freepik.com/premium-photo/gorgeous-female-brunette-model-white-clothes_149155-2130.jpg"
   );
   commentImage.setAttribute("class", "comment-image");
 
