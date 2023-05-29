@@ -73,3 +73,9 @@ body a {
 .border-red {
     border: solid 1px red;
 }
+
+@media (max-width: 991.98px) { 
+    .profile-img-name {
+        align-self: center;
+    }
+ }
